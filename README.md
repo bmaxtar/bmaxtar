@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mamadou Moctar BA</h1>
 <h3 align="center">A passionate frontend developer from Senegal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bmaxtar&label=Profile%20views&color=0e75b6&style=flat" alt="bmaxtar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/maxtar_ov" target="blank"><img src="https://img.shields.io/twitter/follow/maxtar_ov?logo=twitter&style=for-the-badge" alt="maxtar_ov" /></a> </p>
-
-- 🌱 I’m currently learning **Angular, ReactJs, ReactNative, Wordpress, Others technologies...**
-
-- 💬 Ask me about **Angular, React, Rails, ...**
-
 - 📫 How to reach me **bmaxtar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
