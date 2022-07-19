@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mamadou Moctar BA</h1>
+<h1 align="center">Hi 👋, This is Mamadou Moctar BA a { Angular, React and Wordpress } Junior Developer</h1>
 
 - 📫 How to reach me **bmaxtar@gmail.com**
 <h3 align="left">Connect with me:</h3>
