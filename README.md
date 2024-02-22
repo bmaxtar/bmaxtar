@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋 everyone, i'm 🚀 Front-End Development Maverick | React.js | React Native | Angular | Wordpress Advanced Themes 🚀</h1>
+<h1 align="center">Hey 👋 everyone,it's Maxtar 🚀 a Front-End Development Maverick || React Native - Expo || TECH Enthusiast
+</h1>
 
 - 📫 How to reach me **bmaxtar@gmail.com**
 <h3 align="left">Connect with me:</h3>
