@@ -1,1 +1,1 @@
-[![An image of @maxtar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maxtar)](https://holopin.io/@maxtar)
+[![wakatime](https://wakatime.com/badge/user/779151d2-d310-4ea5-a346-1ea20076e378.svg)](https://wakatime.com/@779151d2-d310-4ea5-a346-1ea20076e378)
